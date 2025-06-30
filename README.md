@@ -1,4 +1,4 @@
-🧿 Eye Disease Recognition using Deep Learning
+🧿  # Eye Disease Recognition using Deep Learning
 
 📌 Overview
 This project focuses on the automated detection of eye diseases using deep learning techniques applied to fundus images. The manual diagnosis of ocular conditions is prone to human error and can be time-consuming, which necessitates the development of intelligent systems to assist clinicians.
